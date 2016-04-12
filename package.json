@@ -22,13 +22,13 @@
   "devDependencies": {
     "backbone": "1.x.x",
     "jest-cli": "~0.8.2",
-    "react": ">=0.14.x <1.x.x",
+    "react": ">=0.14.x",
     "react-addons-test-utils": "^0.14.3",
-    "react-dom": ">=0.14.x <1.x.x",
+    "react-dom": ">=0.14.x",
     "react-tools": "0.13.x"
   },
   "peerDependencies": {
-    "react": ">=0.14.x <1.x.x",
+    "react": ">=0.14.x",
     "backbone": "1.x.x",
     "underscore": ">=1.2.x"
   },
